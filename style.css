@@ -57,12 +57,14 @@ body {
   font-family: cursive;
   letter-spacing: 1px;
   width: 59em;
+  height: auto;
   margin: 2% auto;
   margin-right: 10%;
   background-color: rgb(106, 79, 168);
   color: #ede7e3;
   border: unset;
   border-radius: 25px;
+  transition: all 1s;
 }
 
 #entries .entries-nav {
